@@ -1,0 +1,58 @@
+/*common shared style*/
+body{
+    font-family: 'Lato', sans-serif;
+    color: #272727;
+}
+
+
+
+.title{
+font-size: 50px;
+font-style: normal;
+
+
+}
+
+/*header*/
+.header{
+     background: rgba(229, 84, 115, 0.10);
+}
+
+/*banner*/
+.banner{
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-right: 200px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.first{
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.button{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    color: #FFF;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.banner .first-flr{
+   width: 450px;
+}
