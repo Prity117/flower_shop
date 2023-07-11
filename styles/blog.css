@@ -25,6 +25,7 @@ font-style: normal;
     padding-right: 200px;
     display: flex;
     align-items: center;
+    margin-bottom: 100px;
     
 }
 
@@ -55,4 +56,25 @@ line-height: normal;
 
 .banner .first-flr{
    width: 450px;
+}
+
+
+
+.sec_title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.sec_description{
+  
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
 }
